@@ -1,0 +1,8 @@
+{
+  "name": "cpdf-gcf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fgilio/pdftk-gcf",
+  "author": "Franco Gilio <franco.gilio@gmail.com> (https://fgilio.com)",
+  "license": "MIT"
+}
